@@ -1,0 +1,15 @@
+.form-main{
+    display: flex;
+    justify-content: space-between;
+}
+
+.form-main div.form-floating{
+    width: 50%;
+}
+.form-control{
+    border: none !important;
+}
+.form-main button{
+    width: 25%;
+    border-radius: 0 3px 0 0;
+}
